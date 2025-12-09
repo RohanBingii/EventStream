@@ -29,5 +29,4 @@ The model computes similarity scores and returns the closest matches.
 
 ---
 
-## 📁 Folder Layout
 
